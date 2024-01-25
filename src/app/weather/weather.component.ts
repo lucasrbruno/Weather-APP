@@ -7,8 +7,7 @@ import { WeatherService } from '../weather.service';
   styleUrls: ['./weather.component.scss']
 })
 export class WeatherComponent implements OnInit {
-  //7190831860bdfb812e9f8eff27dbf48d
-  //aa137547445d44fe953131600242501
+
   weather: any = {
     location: '',
     current: {
